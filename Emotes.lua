@@ -3231,6 +3231,7 @@ TwitchEmotes_defaultpack = {
     ["tpYellow"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\TwitchPresents\\tpYellow.tga:28:28",
     ["tpZedd"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\TwitchPresents\\tpZedd.tga:28:28",
     -- TwitchTV
+	["RichSpin"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\TwitchTV\\RichSpin.tga:128:128",
     ["4Head"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\TwitchTV\\4Head.tga:28:28",
     ["ANELE"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\TwitchTV\\ANELE.tga:28:28",
     ["AMPEnergy"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\TwitchTV\\AMPEnergy.tga:28:28",
@@ -7231,6 +7232,7 @@ TwitchEmotes_emoticons = {
     ["tpYellow"] = "tpYellow",
     ["tpZedd"] = "tpZedd",
     -- TwitchTV
+	["RichSpin"] = "RichSpin",
     ["4Head"] = "4Head",
     ["AMPEnergy"] = "AMPEnergy",
     ["AMPEnergyCherry"] = "AMPEnergyCherry",
