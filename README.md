@@ -26,4 +26,4 @@ and
 Replace 'Filename' with the name of the TGA file image you want places,
 and replace the '??:??' with the pixel dimensions of your tga image. (usually 28:28 or 64:64)
 
-# Once this is done your emotes will appear for you and anyone else who has made this change. If you update you will have to re-make the changes. Have fun :)
+# Once this is done your emotes will appear for you and anyone else who has made this change. If you update you will have to re-do everything. Have fun :)
